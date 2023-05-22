@@ -1,4 +1,4 @@
-![logo](https://github.com/vivekkumar2002/vivekkumar2002/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/vivekkumar2002/vivekkumar2002/blob/main/github-header-image%20(2).png)
 <h1 align="center"> Hi 👋, I'm vivek kumar</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
