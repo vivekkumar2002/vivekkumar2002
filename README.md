@@ -24,7 +24,7 @@ Passionate about technology and want to learn & explore new technologies.
 <p align="left">
 <a href="https://www.hackerrank.com/@vivekchauhan1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vivekchauhan1611" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivekkumar1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekkumar1612" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vivekchauhan161202/practice" target="blank"><img align="center" src="" alt="vivekkumar1612" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vivekchauhan161202/practice" target="blank"><img align="center" src="https://github.com/vivekkumar2002/vivekkumar2002/blob/main/downloa3d.jpeg" alt="vivekkumar1612" height="30" width="40" /></a>
   
 </p>
 
