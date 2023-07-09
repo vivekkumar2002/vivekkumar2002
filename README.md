@@ -18,7 +18,7 @@ Passionate about technology and want to learn & explore new technologies.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkumar2002&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkumar2002" /> </p> -->
 
-- 📫 How to reach me **vivekchauhan161202@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
